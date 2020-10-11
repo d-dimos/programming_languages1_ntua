@@ -24,7 +24,7 @@ The required programs must examine a given map (a grid of squares) and decide if
 
 
 **INPUT**:
-A 2-D grid, whose squares contain one of the following:
+A 2-D grid, whose squares contain one of the following characters:
  - **S**: Sotiris's starting square
  - **T**: Sotiris's house
  - **W**: square from which a virus is poured out
