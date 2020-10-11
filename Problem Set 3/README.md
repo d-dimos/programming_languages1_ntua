@@ -21,4 +21,4 @@ A 2-D grid, whose squares contain one of the following characters:
  - else the program must print "IMPOSSIBLE".
 
 
-### Problem 2: Vaccine (Python3, Java & Prolog Implementations)
+### Problem 2: Vaccine (Python, Java & Prolog Implementations)
