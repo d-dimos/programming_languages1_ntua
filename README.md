@@ -7,3 +7,5 @@ This repository contains the **problem statements** and **solutions** to the pro
 - SWI Prolog
 - Python3
 - Java
+
+**tl;dr** The implementations were needed to run fast enough to pass successfully through a number of testcases. For this cause, the Prolog codes are written in a quite non-prologesque way, otherwise the time restrictions would not be satisfied.
