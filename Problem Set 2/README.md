@@ -34,5 +34,5 @@ A 2-D grid, whose squares contain one of the following characters:
  
  **OUTPUT**:
  If Sotiris can reach his house before the virus gets to him, then the output is:
- - the shortest (on tie, it prints the lexicographically smallest) sequence of steps he needs to follow
- - else the program must print "IMPOSSIBLE".
+ - the shortest (on tie, the lexicographically smallest) sequence of steps he needs to follow
+ - else the word "IMPOSSIBLE".
