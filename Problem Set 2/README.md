@@ -1,4 +1,3 @@
-
 # Assignment 2
 
 ### Problem 1: Powers of 2 (Prolog Implementation)
