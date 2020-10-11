@@ -25,12 +25,12 @@ The required programs must examine a given map (a grid of squares) and decide if
 
 **INPUT**:
 A 2-D grid, whose squares contain one of the following:
- - **S**  : Sotiris's starting square
- - **T**  : Sotiris's house
- - **W** : square from which a virus is poured out
- - **A**  : airport
- - **.**   : simple square
- - **X**  : wall square (neither Sotiris nor the virus can enter)
+ - **S**: Sotiris's starting square
+ - **T**: Sotiris's house
+ - **W**: square from which a virus is poured out
+ - **A**: airport
+ - **.**: simple square
+ - **X**: wall square (neither Sotiris nor the virus can enter)
  
  **OUTPUT**:
  If Sotiris can reach his house before the virus gets to him, then the output is:
