@@ -22,3 +22,13 @@ A 2-D grid, whose squares contain one of the following characters:
 
 
 ### Problem 2: Vaccine (Python, Java & Prolog Implementations)
+
+The program is required to "print the vaccine" that kills the virus of the "Stayhome problem".
+
+Given a stack of RNA nitrogenous bases ("A", "U", "G", "C"), we consider the following possible moves that we can do, in order to create another stack in which all the nitrogenous bases of the given stack are in groups (all "A"s together, all "T"s together and so on). The moves are:
+
+- "p" (push): removes the top base from the given stack and puts it on top of the new stack 
+- "c" (comlement): replaces all the bases from the given stack with their complementary ones ("A" :left_right_arrow: "U", "C" :left_right_arrow: "G")
+- "r" (reverse): turns the new stack's content upside-down
+
+The program must print the shortest (on a tie, the lexicographicaly smallest) sequence of moves (the desired vaccine) that need to be done, in order the create the above mentioned stack. (It can be proven that for every given sequence of bases, there is at least one possible sequence of moves that results in a valid vaccine)
