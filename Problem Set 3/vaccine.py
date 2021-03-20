@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 21 19:38:28 2020
-
-@author: georgiosthemelis
-"""
-
 
 from collections import deque
 import time
