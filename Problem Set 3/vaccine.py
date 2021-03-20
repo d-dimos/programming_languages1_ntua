@@ -131,6 +131,3 @@ for y in range(int(text[0])):
             toPrint = x     
             
     print(toPrint)
-
-                        
-        
