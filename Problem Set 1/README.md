@@ -1,7 +1,7 @@
 
 # Assignment 1
 
-### Problem 1: Powers of 2 (C++ & SML Implementations)
+### Problem 1: :memo: Powers of 2 (C++ & SML Implementations)
 The required programs must:
 
 - read T integer pairs (N, K)
