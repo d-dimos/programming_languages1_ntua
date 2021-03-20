@@ -1,13 +1,13 @@
 # Assignment 2
 
-### Problem 1: Powers of 2 (Prolog Implementation)
+### Problem 1: Powers of 2 :memo: (Prolog Implementation)
 The required programs must:
 
 - read T integer pairs (N, K)
 - for each pair in the order they are given, print the lexicographically smallest way that **N** can be written as a sum of exactly **K** powers of 2
 - or print an empty list if that is impossible.
 
-### Problem 2: Coronagraphs (Prolog Implementation)
+### Problem 2: Coronagraphs :dna: (Prolog Implementation)
 The required programs must:
 
 - read T graph descriptions (the given graph form is explained in the statements)
@@ -15,7 +15,7 @@ The required programs must:
   - if it does, then print "CORONA a1, a2, a3...", where a1,a2,a3... are the numbers of children of each subtree whose root is a circle node, sorted from smallest to largest
   - else, print "NO CORONA"
 
-### Problem 3: Stay Home (SML & Python Implementations)
+### Problem 3: Stay Home :biohazard: (SML & Python Implementations)
 The required programs must examine a given map (a grid of squares) and decide if Sotiris can reach his house (a specific square) before an expanding virus reaches far enough to infect him.
 - Sotiris moves one step up, down, left or right on each time unit, walking only on non-infected squares
 - The virus expands on all directions possible every two time units, infecting the squares it reaches
