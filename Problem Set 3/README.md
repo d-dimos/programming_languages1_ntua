@@ -1,6 +1,6 @@
 # Assignment 3
 
-### Problem 1: Stay Home (Java Implementation)
+### Problem 1: Stay Home ☣️ (Java Implementation)
 The required programs must examine a given map (a grid of squares) and decide if Sotiris can reach his house (a specific square) before an expanding virus reaches far enough to infect him.
 - Sotiris moves one step up, down, left or right on each time unit, walking only on non-infected squares
 - The virus expands on all directions possible every two time units, infecting the squares it reaches
@@ -21,7 +21,7 @@ A 2-D grid, whose squares contain one of the following characters:
  - else the word "IMPOSSIBLE".
 
 
-### Problem 2: Vaccine (Python, Java & Prolog Implementations)
+### Problem 2: Vaccine :syringe: (Python, Java & Prolog Implementations)
 
 The program is required to "print the vaccine" that kills the virus of the "Stayhome problem".
 
