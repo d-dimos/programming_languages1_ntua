@@ -1,14 +1,14 @@
 
 # Assignment 1
 
-### Problem 1: :memo: Powers of 2 (C++ & SML Implementations)
+### Problem 1: Powers of 2 :memo: (C++ & SML Implementations)
 The required programs must:
 
 - read T integer pairs (N, K)
 - for each pair in the order they are given, print the lexicographically smallest way that **N** can be written as a sum of exactly **K** powers of 2
 - or print an empty list if that is impossible.
 
-### Problem 2: Coronagraphs (C++ & SML Implementations)
+### Problem 2: Coronagraphs :dna: (C++ & SML Implementations)
 The required programs must:
 
 - read T graph descriptions (the given graph form is explained in the statements)
