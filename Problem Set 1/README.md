@@ -12,7 +12,7 @@ The required programs must:
 The required programs must:
 
 - read T graph descriptions (the given graph form is explained in the statements)
-- check if the given graph contains exactly one circle and no other
-  - if it does, then print "CORONA a1, a2, a3...", where a1,a2,a3... are the numbers of children of each subtree whose root is a circle node, sorted from smallest to largest
-  - else, print "NO CORONA"
+- check if the given graph contains exactly one circle
+  - if it does, then it must print "CORONA a_1, a_2, a_3...", where a1,a2,a3... are the numbers of children of each subtree whose root is a circle node, sorted from smallest to largest
+  - otherwise, it must print "NO CORONA"
 
