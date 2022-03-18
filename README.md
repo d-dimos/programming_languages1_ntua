@@ -3,7 +3,7 @@
 <p align="left">
 	<img alt="Byte Code Size" src="https://img.shields.io/github/languages/code-size/d-dimos/programming_languages1_ntua?color=blue" />
 	<img alt="# Lines of Code" src="https://img.shields.io/tokei/lines/github/d-dimos/programming_languages1_ntua?color=red" />
-	<img alt="# Languages Used" src="https://img.shields.io/github/languages/top/d-dimos/programming_languages1_ntua?color=green" />
+	<img alt="# Languages Used" src="https://img.shields.io/github/languages/count/d-dimos/programming_languages1_ntua?color=green" />
 	<img alt="Top language" src="https://img.shields.io/github/languages/top/d-dimos/programming_languages1_ntua?color=yellow" />
 </p>
 
